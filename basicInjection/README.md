@@ -1,6 +1,6 @@
 ## basicInjection 
 
-viewing the [pagesource](view-source:https://web.ctflearn.com/web4/)
+viewing the [pagesource](https://web.ctflearn.com/web4/)
 
 there are some hints like try these usernames where the username Luke gives us valid page
 
