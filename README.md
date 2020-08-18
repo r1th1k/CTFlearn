@@ -10,7 +10,9 @@ But i wrote the getFlag script in a more understandable way (kinda like a beginn
 
 So you can probably understand it just by go throughing it.
 
-NOTE: The programs are either in `bash` or `python` 
+NOTE: 
+	  
+	  The programs are either in `bash` or `python` 
 
       And to make the getFlag script to work you should keep the contents of the challenges as it as
 
