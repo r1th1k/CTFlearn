@@ -2,7 +2,7 @@
 
 hello people,
 
-I created a getFlag script for the [CTFlearn](https://ctflearn.com/) challenges
+I created some getFlag script for the [CTFlearn](https://ctflearn.com/) challenges
 
 I din't done a writeup for every challenges coz it's time consuming and I sucks in explaining stuff..+_+
 
